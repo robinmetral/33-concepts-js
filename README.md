@@ -1,29 +1,28 @@
 ﻿<h1 align="center">
 <br>
-  <a href="https://github.com/leonardomso/33"><img src="https://i.imgur.com/dsHmk6H.jpg" alt="33 Concepts Every JS Developer Should Know" width=200"></a>
+  <a href="https://github.com/robinmetral/33-concepts-js"><img src="https://i.imgur.com/dsHmk6H.jpg" alt="33 concepts que tout développeur JavaScript devrait connaître" width=200"></a>
   <br>
     <br>
-  33 Concepts Every JavaScript Developer Should Know
+    33 concepts que tout développeur JavaScript devrait connaître.
   <br><br>
 </h1>
 
 <p align="center">
-  <a href="http://makeapullrequest.com">
-    <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome">
+  <a href="https://opensource.guide/fr/how-to-contribute/#ouvrir-une-pull-request">
+    <img src="https://img.shields.io/badge/PRs-bienvenues-brightgreen.svg?style=flat-square" alt="PRs bienvenues">
   </a>
   <a href="https://opensource.org/licenses/MIT">
     <img src="https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square" alt="License MIT">
-  </a>
-  <a href="https://travis-ci.com/leonardomso/33-js-concepts">
-    <img src="https://img.shields.io/travis/leonardomso/33-js-concepts/master.svg?style=flat-square&label=build&logo=travis" alt="Build Status">
   </a>
 </p>
 
 ## Introduction
 
-This repository was created with the intention of helping developers master their concepts in JavaScript. It is not a requirement, but a guide for future studies. It is based on an article written by [Stephen Curtis](https://twitter.com/stephenthecurt) and you can read it [here](https://medium.com/@stephenthecurt/33-fundamentals-every-javascript-developer-should-know-13dd720a90d1).
+Cette repo est une traduction de [33-js-concepts](https://github.com/leonardomso/33-js-concepts) par [Leonardo Madonaldo](https://twitter.com/leonardomso).
 
-**🚀 Considered by GitHub as one of the [top open source projects of 2018!](https://blog.github.com/2018-12-13-new-open-source-projects/)**
+Elle a été créée dans le but d'aider les développeurs à maîtriser les concepts fondamentaux du JavaScript, et fonctionne comme un guide pour continuer à apprendre. Elle est basée sur un article écrit par [Stephen Curtis](https://twitter.com/stephenthecurt), que vous pouvez lire [ici](https://medium.com/@stephenthecurt/33-fundamentals-every-javascript-developer-should-know-13dd720a90d1) (en anglais 🇬🇧).
+
+**🚀 La version originale de cette repo est considérée par GitHub comme étant l'un des [meilleurs projets open-source de 2018 !](https://blog.github.com/2018-12-13-new-open-source-projects/)**
 
 ## Community
 
