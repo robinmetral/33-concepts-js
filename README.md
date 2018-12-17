@@ -91,7 +91,9 @@ Elle a été créée dans le but d'aider les développeurs à maîtriser les con
  * :movie_camera: [Call Stack & Event Loop — movies com](https://www.youtube.com/watch?v=mk0lu9MKBto)
  * :movie_camera: [The Ultimate Guide to Execution Contexts, Hoisting, Scopes, and Closures in JavaScript — Tyler McGinnis](https://www.youtube.com/watch?v=Nt-qa_LlUH0)
 
-**[⬆ Table des matières](#table-of-contents)**
+<p align="center">
+:arrow_up: **[Table des matières](#table-des-matières)** :arrow_up:
+</p>
 
 ---
 
@@ -116,7 +118,9 @@ Elle a été créée dans le but d'aider les développeurs à maîtriser les con
  * :movie_camera: [Everything you never wanted to know about JavaScript numbers — Bartek Szopka](https://www.youtube.com/watch?v=MqHDDtVYJRI)
  * :movie_camera: [What are variables in Javascript? — JS For Everyone](https://www.youtube.com/watch?v=B4Bbmei_thw)
 
-**[⬆ Table des matières](#table-of-contents)**
+<p align="center">
+:arrow_up: **[Table des matières](#table-des-matières)** :arrow_up:
+</p>
 
 ---
 
@@ -139,7 +143,9 @@ Elle a été créée dans le but d'aider les développeurs à maîtriser les con
  * :movie_camera: [Javascript Pass by Value vs Pass by Reference — techsith](https://www.youtube.com/watch?v=E-dAnFdq8k8)
  * :movie_camera: [JavaScript Value vs Reference Types — Programming with Mosh](https://www.youtube.com/watch?v=fD0t_DKREbE)
 
-**[⬆ Table des matières](#table-of-contents)**
+<p align="center">
+:arrow_up: **[Table des matières](#table-des-matières)** :arrow_up:
+</p>
 
 ---
 
@@ -155,13 +161,15 @@ Elle a été créée dans le but d'aider les développeurs à maîtriser les con
  * :scroll: [(Not) Everything in JavaScript is an Object - Daniel Li](http://blog.brew.com.hk/not-everything-in-javascript-is-an-object/)
  * :scroll: [Type Coercion in JavaScript, and why everyone gets it wrong.](https://thedevs.network/blog/type-coercion-in-javascript-and-why-everyone-gets-it-wrong)
 
- ### Vidéos
+### Vidéos
 
  * :movie_camera: [== ? === ??? ...#@^% - Shirmung Bielefeld](https://www.youtube.com/watch?v=qGyqzN0bjhc&t)
  * :movie_camera: [Coercion in Javascript - Hitesh Choudhary](https://www.youtube.com/watch?v=b04Q_vyqEG8)
  * :movie_camera: [JavaScript Questions: What is Coercion? - Steven Hancock](https://www.youtube.com/watch?v=z4-8wMSPJyI)
 
-**[⬆ Table des matières](#table-of-contents)**
+<p align="center">
+:arrow_up: **[Table des matières](#table-des-matières)** :arrow_up:
+</p>
 
 ---
 
@@ -185,7 +193,9 @@ Elle a été créée dans le but d'aider les développeurs à maîtriser les con
  * :movie_camera: [JavaScript - The typeof operator — Java Brains](https://www.youtube.com/watch?v=ol_su88I3kw)
  * :movie_camera: [Javascript typeof operator — DevDelight](https://www.youtube.com/watch?v=qPYhTPt_SbQ)
 
-**[⬆ Table des matières](#table-of-contents)**
+<p align="center">
+:arrow_up: **[Table des matières](#table-des-matières)** :arrow_up:
+</p>
 
 ---
 
@@ -212,7 +222,9 @@ Elle a été créée dans le but d'aider les développeurs à maîtriser les con
  * :movie_camera: [JavaScript Block Scope and Function Scope — mmtuts](https://www.youtube.com/watch?v=aK_nuUAdr8E)
  * :movie_camera: [What the Heck is Lexical Scope? — NWCalvank](https://www.youtube.com/watch?v=GhNA0r10MmA)
 
-**[⬆ Table des matières](#table-of-contents)**
+<p align="center">
+:arrow_up: **[Table des matières](#table-des-matières)** :arrow_up:
+</p>
 
 ---
 
@@ -232,7 +244,9 @@ Elle a été créée dans le but d'aider les développeurs à maîtriser les con
  * :movie_camera: [JavaScript - Expression vs. Statement — WebTunings](https://www.youtube.com/watch?v=3jDpNGJkupA)
  * :movie_camera: [Function Statements and Function Expressions — Codeacademy](https://www.youtube.com/watch?v=oB5rH_9bqAI)
 
-**[⬆ Table des matières](#table-of-contents)**
+<p align="center">
+:arrow_up: **[Table des matières](#table-des-matières)** :arrow_up:
+</p>
 
 ---
 
@@ -260,7 +274,9 @@ Elle a été créée dans le but d'aider les développeurs à maîtriser les con
  * :movie_camera: [ES6 Modules in the Real World — Sam Thorogood](https://www.youtube.com/watch?v=fIP4pjAqCtQ)
  * :movie_camera: [ES6 Modules — TempleCoding](https://www.youtube.com/watch?v=5P04OK6KlXA)
 
-**[⬆ Table des matières](#table-of-contents)**
+<p align="center">
+:arrow_up: **[Table des matières](#table-des-matières)** :arrow_up:
+</p>
 
 ---
 
@@ -286,8 +302,9 @@ Elle a été créée dans le but d'aider les développeurs à maîtriser les con
  * :movie_camera: [In The Loop - Jake Archibald | JSConf.Asia 2018](https://www.youtube.com/watch?v=cCOL7MC4Pl0)
  * :movie_camera: [Desmitificando el Event Loop (Spanish)](https://www.youtube.com/watch?v=Eqq2Rb7LzYE)
 
-
-**[⬆ Table des matières](#table-of-contents)**
+<p align="center">
+:arrow_up: **[Table des matières](#table-des-matières)** :arrow_up:
+</p>
 
 ---
 
@@ -310,7 +327,9 @@ Elle a été créée dans le but d'aider les développeurs à maîtriser les con
  * :movie_camera: [JavaScript setTimeout, setInterval & clearInterval — DoingITeasyChannel](https://www.youtube.com/watch?v=BVALvvy5bZY)
  * :movie_camera: [JavaScript setTimeOut and setInterval Explained — Theodore Anderson](https://www.youtube.com/watch?v=mVKfrWCOB60)
 
-**[⬆ Table des matières](#table-of-contents)**
+<p align="center">
+:arrow_up: **[Table des matières](#table-des-matières)** :arrow_up:
+</p>
 
 ---
 
@@ -330,7 +349,9 @@ Elle a été créée dans le but d'aider les développeurs à maîtriser les con
 
  * :movie_camera: [JavaScript Engines: The Good Parts™ — Mathias Bynens & Benedikt Meurer](https://www.youtube.com/watch?v=5nmpokoRaZI)
 
-**[⬆ Table des matières](#table-of-contents)**
+<p align="center">
+:arrow_up: **[Table des matières](#table-des-matières)** :arrow_up:
+</p>
 
 ---
 
@@ -344,11 +365,13 @@ Elle a été créée dans le but d'aider les développeurs à maîtriser les con
  * :scroll: [Bitwise Operators in Javascript — Joe Cha](https://medium.com/bother7-blog/bitwise-operators-in-javascript-65c4c69be0d3)
  * :scroll: [A Comprehensive Primer on Binary Computation and Bitwise Operators in Javascript — Paul Brown](https://medium.com/techtrument/a-comprehensive-primer-on-binary-computation-and-bitwise-operators-in-javascript-81acf8341f04)
 
- ### Vidéos
+### Vidéos
 
  * :movie_camera: [JavaScript Bitwise Operators — Programming with Mosh](https://www.youtube.com/watch?v=mesu75PTDC8)
 
-**[⬆ Table des matières](#table-of-contents)**
+<p align="center">
+:arrow_up: **[Table des matières](#table-des-matières)** :arrow_up:
+</p>
 
 ---
 
@@ -366,12 +389,14 @@ Elle a été créée dans le but d'aider les développeurs à maîtriser les con
  * :scroll: [How to traverse the DOM in Javascript — Vojislav Grujić](https://medium.com/javascript-in-plain-english/how-to-traverse-the-dom-in-javascript-d6555c335b4e)
  * :scroll: [Render Tree Construction — Ilya Grigorik](https://developers.google.com/web/fundamentals/performance/critical-rendering-path/render-tree-construction)
 
- ### Vidéos
+### Vidéos
 
  * :movie_camera: [JavaScript DOM — The Net Ninja](https://www.youtube.com/watch?v=FIORjGvT0kk)
  * :movie_camera: [JavaScript DOM Crash Course — Traversy Media](https://www.youtube.com/watch?v=0ik6X4DJKCc)
 
-**[⬆ Table des matières](#table-of-contents)**
+<p align="center">
+:arrow_up: **[Table des matières](#table-des-matières)** :arrow_up:
+</p>
 
 ---
 
@@ -389,13 +414,15 @@ Elle a été créée dans le but d'aider les développeurs à maîtriser les con
  * :scroll: [Class vs Factory function: exploring the way forward — Cristi Salcescu](https://medium.freecodecamp.org/class-vs-factory-function-exploring-the-way-forward-73258b6a8d15)
  * :scroll: [How ES6 classes really work and how to build your own — Robert Grosse](https://medium.com/@robertgrosse/how-es6-classes-really-work-and-how-to-build-your-own-fd6085eb326a)
 
- ### Vidéos
+### Vidéos
 
  * :movie_camera: [JavaScript Factory Functions — Programming with Mosh](https://www.youtube.com/watch?v=jpegXpQpb3o)
  * :movie_camera: [Factory Functions in JavaScript — Fun Fun Function](https://www.youtube.com/watch?v=ImwrezYhw4w)
  * :movie_camera: [Javascript Tutorial Function Factories — Crypto Chan](https://www.youtube.com/watch?v=R7-IwpH80UE)
 
-**[⬆ Table des matières](#table-of-contents)**
+<p align="center">
+:arrow_up: **[Table des matières](#table-des-matières)** :arrow_up:
+</p>
 
 ---
 
@@ -420,7 +447,7 @@ Elle a été créée dans le but d'aider les développeurs à maîtriser les con
  * :scroll: [Let me explain to you what is `this`. (Javascript) — Jason Yu](https://dev.to/ycmjason/let-me-explain-to-you-what-is-this-javascript-44ja)
  * :scroll: [Understanding the “this” Keyword in JavaScript — Pavan](https://medium.com/quick-code/understanding-the-this-keyword-in-javascript-cb76d4c7c5e8)
 
-  ### Vidéos
+### Vidéos
 
  * :movie_camera: [JavaScript call, apply and bind — techsith](https://www.youtube.com/watch?v=c0mLRpw-9rI)
  * :movie_camera: [JavaScript Practical Applications of Call, Apply and Bind functions— techsith](https://www.youtube.com/watch?v=AYVYxezrMWA)
@@ -430,7 +457,9 @@ Elle a été créée dans le but d'aider les développeurs à maîtriser les con
  * :movie_camera: [JavaScript Practical Applications of Call, Apply and Bind functions — techsith](https://www.youtube.com/watch?v=AYVYxezrMWA)
  * :movie_camera: [JS Function Methods call(), apply(), and bind() — Steve Griffith](https://www.youtube.com/watch?v=uBdH0iB1VDM)
  
-**[⬆ Table des matières](#table-of-contents)**
+<p align="center">
+:arrow_up: **[Table des matières](#table-des-matières)** :arrow_up:
+</p>
 
 ---
 
@@ -448,7 +477,9 @@ Elle a été créée dans le but d'aider les développeurs à maîtriser les con
  * :scroll: [JavaScript instanceof vs typeof — Gary Rafferty](http://garyrafferty.com/2012/12/07/JavaScript-instanceof-vs-typeof.html)
  * :scroll: [Function and Object, instances of each other — Kiro Risk](https://javascriptrefined.io/function-and-object-instances-of-each-other-1e1095d5faac)
 
-**[⬆ Table des matières](#table-of-contents)**
+<p align="center">
+:arrow_up: **[Table des matières](#table-des-matières)** :arrow_up:
+</p>
 
 ---
 
@@ -476,7 +507,7 @@ Elle a été créée dans le but d'aider les développeurs à maîtriser les con
  * :scroll: [Classes in JavaScript - Explained — Daniel Li](http://blog.brew.com.hk/classes-in-javascript-explained/)
  * :scroll: [You Don't Know JS: this & Object Prototypes — Kyle Simpson](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20%26%20object%20prototypes/ch4.md)
 
- ### Vidéos
+### Vidéos
 
  * :movie_camera: [Javascript Prototype Inheritance — Avelx](https://www.youtube.com/watch?v=sOrtAjyk4lQ)
  * :movie_camera: [JavaScript Prototype Inheritance Explained pt. I — techsith](https://www.youtube.com/watch?v=7oNWNlMrkpc)
@@ -490,8 +521,9 @@ Elle a été créée dans le but d'aider les développeurs à maîtriser les con
  * :movie_camera: [A Beginner's Guide to Javascript's Prototype — Tyler Mcginnis](https://www.youtube.com/watch?v=XskMWBXNbp0)
  * :movie_camera: [Prototypes in Javascript - p5.js Tutorial — The Coding Train](https://www.youtube.com/watch?v=hS_WqkyUah8)
 
-
-**[⬆ Table des matières](#table-of-contents)**
+<p align="center">
+:arrow_up: **[Table des matières](#table-des-matières)** :arrow_up:
+</p>
 
 ---
 
@@ -512,12 +544,14 @@ Elle a été créée dans le but d'aider les développeurs à maîtriser les con
  * :scroll: [JavaScript: Object.assign() — Thiago S. Adriano](https://codeburst.io/javascript-object-assign-bc9696dcbb6e)
  * :scroll: [How to deep clone a JavaScript Object — Flavio Copes](https://flaviocopes.com/how-to-clone-javascript-object/)
 
- ### Vidéos
+### Vidéos
 
  * :movie_camera: [Object.assign() explained — Aaron Writes Code](https://www.youtube.com/watch?v=aw7NfYhR5rc)
  * :movie_camera: [Object.assign() Method — techsith](https://www.youtube.com/watch?v=9Ky4X6inpi4)
 
-**[⬆ Table des matières](#table-of-contents)**
+<p align="center">
+:arrow_up: **[Table des matières](#table-des-matières)** :arrow_up:
+</p>
 
 ---
 
@@ -545,7 +579,7 @@ Elle a été créée dans le but d'aider les développeurs à maîtriser les con
  * :scroll: [Simplify your JavaScript – Use .map(), .reduce(), and .filter() — Etienne Talbot](https://medium.com/poka-techblog/simplify-your-javascript-use-map-reduce-and-filter-bd02c593cc2d)
  * :scroll: [JavaScript’s Reduce Method Explained By Going On a Diet — Kevin Kononenko](https://blog.codeanalogies.com/2018/07/24/javascripts-reduce-method-explained-by-going-on-a-diet/)
 
- ### Vidéos
+### Vidéos
 
  * :movie_camera: [Map, Filter and Reduce — Lydia Hallie](https://www.youtube.com/watch?v=UXiYii0Y7Nw)
  * :movie_camera: [Functional JavaScript: Map, forEach, Reduce, Filter — Theodore Anderson](https://www.youtube.com/watch?v=vytzLlY_wmU)
@@ -556,8 +590,9 @@ Elle a été créée dans le but d'aider les développeurs à maîtriser les con
  * :movie_camera: [Arrow functions in JavaScript - What, Why and How — Fun Fun Function](https://www.youtube.com/watch?v=6sQDTgOqh-I)
  * :movie_camera: [Learning Functional Programming with JavaScript — Anjana Vakil - JSUnconf](https://www.youtube.com/watch?v=e-5obm1G_FY&t=1521s)
 
-
-**[⬆ Table des matières](#table-of-contents)**
+<p align="center">
+:arrow_up: **[Table des matières](#table-des-matières)** :arrow_up:
+</p>
 
 ---
 
@@ -582,15 +617,16 @@ Elle a été créée dans le but d'aider les développeurs à maîtriser les con
  * :scroll: [JavaScript: Pure Functions — William S. Vincent](https://wsvincent.com/javascript-pure-functions/)
  * :scroll: [Functional programming paradigms in modern JavaScript: Pure functions — Alexander Kondov](https://hackernoon.com/functional-programming-paradigms-in-modern-javascript-pure-functions-797d9abbee1)
 
- ### Vidéos
+### Vidéos
 
  * :movie_camera: [Pure Functions — Hexlet](https://www.youtube.com/watch?v=dZ41D6LDSBg)
  * :movie_camera: [Pure Functions - Functional Programming in JavaScript — Paul McBride](https://www.youtube.com/watch?v=Jh_Uzqzz_wM)
  * :movie_camera: [JavaScript Pure Functions — Seth Alexander](https://www.youtube.com/watch?v=frT3H-eBmPc)
  * :movie_camera: [JavaScript Pure vs Impure Functions Explained — Theodore Anderson](https://www.youtube.com/watch?v=AHbRVJzpB54)
 
-
-**[⬆ Table des matières](#table-of-contents)**
+<p align="center">
+:arrow_up: **[Table des matières](#table-des-matières)** :arrow_up:
+</p>
 
 ---
 
@@ -614,7 +650,7 @@ Elle a été créée dans le but d'aider les développeurs à maîtriser les con
  * :scroll: [Simplified JavaScript: Getting Started with Closures — Code Like A Girl](https://code.likeagirl.io/simplified-javascript-getting-started-with-closures-f40f65317d00)
  * :scroll: [The Ultimate Guide to Hoisting, Scopes, and Closures in JavaScript — Tyler McGinnis](https://tylermcginnis.com/ultimate-guide-to-execution-contexts-hoisting-scopes-and-closures-in-javascript/)
 
- ### Vidéos
+### Vidéos
 
  * :movie_camera: [Javascript Closure — techsith](https://www.youtube.com/watch?v=71AtaJpJHw0)
  * :movie_camera: [Closures — Fun Fun Function](https://www.youtube.com/watch?v=CQqwU2Ixu-U)
@@ -623,7 +659,9 @@ Elle a été créée dans le but d'aider les développeurs à maîtriser les con
  * :movie_camera: [Closures — freeCodeCamp](https://www.youtube.com/watch?v=1JsJx1x35c0)
  * :movie_camera: [JavaScript Closures — CodeWorkr](https://www.youtube.com/watch?v=-rLrGAXK8WE)
 
-**[⬆ Table des matières](#table-of-contents)**
+<p align="center">
+:arrow_up: **[Table des matières](#table-des-matières)** :arrow_up:
+</p>
 
 ---
 
@@ -642,7 +680,7 @@ Elle a été créée dans le but d'aider les développeurs à maîtriser les con
  * :scroll: [Just a reminder on how to use high order functions — Pedro Filho](https://github.com/pedroapfilho/high-order-functions)
  * :scroll: [Understanding Higher-Order Functions in JavaScript — Sukhjinder Arora](https://blog.bitsrc.io/understanding-higher-order-functions-in-javascript-75461803bad)
 
- ### Vidéos
+### Vidéos
 
  * :movie_camera: [JavaScript Higher Order Functions & Arrays — Traversy Media](https://www.youtube.com/watch?v=rRgD1yVwIvE)
  * :movie_camera: [Higher Order Functions — Fun Fun Function](https://www.youtube.com/watch?v=BMUiFMZr7vk)
@@ -650,7 +688,9 @@ Elle a été créée dans le but d'aider les développeurs à maîtriser les con
  * :movie_camera: [Higher Order Iterators in JavaScript — Fun Fun Function](https://www.youtube.com/watch?v=GYRMNp1SKXA)
  * :movie_camera: [Higher Order Functions in JavaScript — The Coding Train](https://www.youtube.com/watch?v=H4awPsyugS0)
 
-**[⬆ Table des matières](#table-of-contents)**
+<p align="center">
+:arrow_up: **[Table des matières](#table-des-matières)** :arrow_up:
+</p>
 
 ---
 
@@ -667,7 +707,7 @@ Elle a été créée dans le but d'aider les développeurs à maîtriser les con
  * :scroll: [Recursion, iteration and tail calls in JS — loverajoel](http://www.jstips.co/en/javascript/recursion-iteration-and-tail-calls-in-js/)
  * :scroll: [Understanding Recursion in JavaScript with Confidence — Jay](https://www.thecodingdelight.com/understanding-recursion-javascript/)
 
- ### Vidéos
+### Vidéos
 
  * :movie_camera: [Recursion In JavaScript — techsith](https://www.youtube.com/watch?v=VtG0WAUvq2w)
  * :movie_camera: [Recursion — Fun Fun Function](https://www.youtube.com/watch?v=k7-N8R0-KY4)
@@ -677,7 +717,9 @@ Elle a été créée dans le but d'aider les développeurs à maîtriser les con
  * :movie_camera: [What on Earth is Recursion? — Computerphile](https://www.youtube.com/watch?v=Mv9NEXX1VHc)
  * :movie_camera: [Javascript Tutorial 34: Introduction To Recursion — codedamn](https://www.youtube.com/watch?v=9NO5dXSlbv8)
 
-**[⬆ Table des matières](#table-of-contents)**
+<p align="center">
+:arrow_up: **[Table des matières](#table-des-matières)** :arrow_up:
+</p>
 
 ---
 
@@ -704,15 +746,15 @@ Elle a été créée dans le but d'aider les développeurs à maîtriser les con
 * :scroll: [Understanding JavaScript Generators With Examples  — Arfat Salman](https://codeburst.io/understanding-generators-in-es6-javascript-with-examples-6728834016d5)
 * :scroll: [The Basics of ES6 Generators — Kyle Simpson](https://davidwalsh.name/es6-generators)
 
-
-
- ### Vidéos
+### Vidéos
 
  * :movie_camera: [JavaScript ES6 / ES2015 Set, Map, WeakSet and WeakMap — Traversy Media](https://www.youtube.com/watch?v=ycohYSx5h9w)
  * :movie_camera: [The Differences between ES6 Maps and Sets — Steve Griffith](https://www.youtube.com/watch?v=m4abICrldQI)
  * :movie_camera: [Javascript Generators - THEY CHANGE EVERYTHING - ES6 Generators Harmony Generators — LearnCode.academy](https://www.youtube.com/watch?v=QO07THdLWQo)
 
-**[⬆ Table des matières](#table-of-contents)**
+<p align="center">
+:arrow_up: **[Table des matières](#table-des-matières)** :arrow_up:
+</p>
 
 ---
 
@@ -736,7 +778,7 @@ Elle a été créée dans le but d'aider les développeurs à maîtriser les con
  * :scroll: [ES6 Promises in Depth — Nicolás Bevacqua](https://ponyfoo.com/articles/es6-promises-in-depth)
  * :scroll: [Playing with Javascript Promises: A Comprehensive Approach — Rajesh Babu](https://codeburst.io/playing-with-javascript-promises-a-comprehensive-approach-25ab752c78c3)
 
- ### Vidéos
+### Vidéos
 
  * :movie_camera: [Let's Learn ES6 - Promises — Ryan Christiani](https://www.youtube.com/watch?v=vQ3MoXnKfuQ)
  * :movie_camera: [JavaScript ES6 / ES2015 Promises — Traversy Media](https://www.youtube.com/watch?v=XJEHuBZQ5dU)
@@ -744,7 +786,9 @@ Elle a été créée dans le but d'aider les développeurs à maîtriser les con
  * :movie_camera: [Error Handling Promises in JavaScript — Fun Fun Function](https://www.youtube.com/watch?v=f8IgdnYIwOU)
  * :movie_camera: [Promises Part 1 - Topics of JavaScript/ES6 — The Coding Train](https://www.youtube.com/watch?v=QO4NXhWo_NM)
  
-**[⬆ Table des matières](#table-of-contents)**
+<p align="center">
+:arrow_up: **[Table des matières](#table-des-matières)** :arrow_up:
+</p>
 
 ---
 
@@ -768,7 +812,7 @@ Elle a été créée dans le but d'aider les développeurs à maîtriser les con
  * :scroll: [Flow Control in Modern JS: Callbacks to Promises to Async/Await — Craig Buckler](https://www.sitepoint.com/flow-control-callbacks-promises-async-await/)
  * :scroll: [JavaScript: Promises and Why Async/Await Wins the Battle — Nick Parsons](https://dzone.com/articles/javascript-promises-and-why-asyncawait-wins-the-ba)
 
- ### Vidéos
+### Vidéos
 
  * :movie_camera: [Async + Await — Wes Bos](https://www.youtube.com/watch?v=9YkUCxvaLEk)
  * :movie_camera: [Asynchrony: Under the Hood — Shelley Vohr](https://www.youtube.com/watch?v=SrNQS8J67zc)
@@ -776,7 +820,9 @@ Elle a été créée dans le but d'aider les développeurs à maîtriser les con
  * :movie_camera: [async/await Part 1 - Topics of JavaScript/ES8 — The Coding Train](https://www.youtube.com/watch?v=XO77Fib9tSI&index=3&list=PLRqwX-V7Uu6bKLPQvPRNNE65kBL62mVfx)
  * :movie_camera: [async/await Part 2 - Topics of JavaScript/ES8 — The Coding Train](https://www.youtube.com/watch?v=chavThlNz3s&index=4&list=PLRqwX-V7Uu6bKLPQvPRNNE65kBL62mVfx)
 
-**[⬆ Table des matières](#table-of-contents)**
+<p align="center">
+:arrow_up: **[Table des matières](#table-des-matières)** :arrow_up:
+</p>
 
 ---
 
@@ -794,14 +840,16 @@ Elle a été créée dans le but d'aider les développeurs à maîtriser les con
  * :scroll: [Collection of classic computer science paradigms in JavaScript](https://github.com/nzakas/computer-science-in-javascript)
  * :scroll: [All the things you didn't know you wanted to know about data structures](https://github.com/jamiebuilds/itsy-bitsy-data-structures)
 
- ### Vidéos
+### Vidéos
 
  * :movie_camera: [Algorithms in JavaScript — Seth Koch](https://www.youtube.com/watch?v=PylQlISSH8U&list=PLujX4CIdBGCa-65N3uN8CDbUMrYsHBrz-)
  * :movie_camera: [Algorithms In Javascript | Ace Your Interview — Eduonix Learning Solutions](https://www.youtube.com/watch?v=H_EBPZgiAas&list=PLDmvslp_VR0zYUSth_8O69p4_cmvZEgLa)
  * :movie_camera: [Data Structures and Algorithms in JavaScript — freeCodeCamp](https://www.youtube.com/watch?v=Gj5qBheGOEo&list=PLWKjhJtqVAbkso-IbgiiP48n-O-JQA9PJ)
  * :movie_camera: [Learning JavaScript Data Structures and Algorithms: Sorting — Packt Video](https://www.youtube.com/watch?v=Ymh_AurrMbA)
 
-**[⬆ Table des matières](#table-of-contents)**
+<p align="center">
+:arrow_up: **[Table des matières](#table-des-matières)** :arrow_up:
+</p>
 
 ---
 
@@ -822,7 +870,9 @@ Elle a été créée dans le but d'aider les développeurs à maîtriser les con
  * :movie_camera: [Essential Big O for JavaScript Developers — Dave Smith](https://www.youtube.com/watch?v=KatlvCFHPRo)
  * :movie_camera: [Big O Notation - Time Complexity Analysis — WebTunings](https://www.youtube.com/watch?v=ALl86xJiTD8)
 
-**[⬆ Table des matières](#table-of-contents)**
+<p align="center">
+:arrow_up: **[Table des matières](#table-des-matières)** :arrow_up:
+</p>
 
 ---
 
@@ -839,7 +889,9 @@ Elle a été créée dans le but d'aider les développeurs à maîtriser les con
  * :scroll: [Data Structures and Algorithms library in JavaScript](https://github.com/yangshun/lago)
  * :scroll: [Collection of computer science algorithms and data structures written in JavaScript](https://github.com/idosela/algorithms-in-javascript)
 
-**[⬆ Table des matières](#table-of-contents)**
+<p align="center">
+:arrow_up: **[Table des matières](#table-des-matières)** :arrow_up:
+</p>
 
 ---
 
@@ -856,13 +908,15 @@ Elle a été créée dans le but d'aider les développeurs à maîtriser les con
  * :scroll: [Program Like Proteus — A beginner’s guide to polymorphism in Javascript — Sam Galson](https://medium.com/yld-engineering-blog/program-like-proteus-a-beginners-guide-to-polymorphism-in-javascript-867bea7c8be2)
  * :scroll: [Object-oriented JavaScript: A Deep Dive into ES6 Classes — Jeff Mott](https://www.sitepoint.com/object-oriented-javascript-deep-dive-es6-classes/)
 
-  ### Vidéos
+### Vidéos
 
  * :movie_camera: [Inheritance in JavaScript — kudvenkat](https://www.youtube.com/watch?v=yXlFR81tDBM)
  * :movie_camera: [JavaScript ES6 Classes and Inheritance — Traversy Media](https://www.youtube.com/watch?v=RBLIm5LMrmc)
  * :movie_camera: [Polymorphism in JavaScript — kudvenkat](https://www.youtube.com/watch?v=zdovG9cuEBA)
 
-**[⬆ Table des matières](#table-of-contents)**
+<p align="center">
+:arrow_up: **[Table des matières](#table-des-matières)** :arrow_up:
+</p>
 
 ---
 
@@ -878,13 +932,14 @@ Elle a été créée dans le but d'aider les développeurs à maîtriser les con
  * :scroll: [All the 23 (GoF) design patterns implemented in Javascript — Felipe Beline](https://github.com/fbeline/Design-Patterns-JS)
  * :scroll: [Learning JavaScript Design Patterns — Addy Osmani ](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 
-
-  ### Vidéos
+### Vidéos
 
  * :movie_camera: [JavaScript Design Patterns — Udacity](https://www.udacity.com/course/javascript-design-patterns--ud989)
  * :movie_camera: [JavaScript Patterns for 2017 — Scott Allen](https://www.youtube.com/watch?v=hO7mzO83N1Q)
 
- **[⬆ Table des matières](#table-of-contents)**
+<p align="center">
+:arrow_up: **[Table des matières](#table-des-matières)** :arrow_up:
+</p>
 
 ---
 
@@ -918,7 +973,7 @@ Elle a été créée dans le but d'aider les développeurs à maîtriser les con
  * :scroll: [An introduction to the basic principles of Functional Programming — TK](https://medium.freecodecamp.org/an-introduction-to-the-basic-principles-of-functional-programming-a2c2a15c84)
  * :scroll: [Concepts of Functional Programming in Javascript — TK](https://medium.com/the-renaissance-developer/concepts-of-functional-programming-in-javascript-6bc84220d2aa)
 
-  ### Vidéos
+### Vidéos
 
  * :movie_camera: [Compose vs Pipe: Functional Programming in JavaScript — Chyld Studios](https://www.youtube.com/watch?v=Wl2ejJOqHUU)
  * :movie_camera: [JavaScript Functional Programing: Compose — Theodore Anderson](https://www.youtube.com/watch?v=jigHxo9YR30)
@@ -928,7 +983,9 @@ Elle a été créée dans le but d'aider les développeurs à maîtriser les con
  * :movie_camera: [Partial Application vs. Currying — NWCalvank](https://www.youtube.com/watch?v=DzLkRsUN2vE)
  * :movie_camera: [JavaScript Partial Application — Theodore Anderson](https://www.youtube.com/watch?v=jkebgHEcvac)
 
-**[⬆ Table des matières](#table-of-contents)**
+<p align="center">
+:arrow_up: **[Table des matières](#table-des-matières)** :arrow_up:
+</p>
 
 ---
 
@@ -946,4 +1003,6 @@ Elle a été créée dans le but d'aider les développeurs à maîtriser les con
 ### Vidéos
 *  :movie_camera: [JavaScript Pro Tips - Code This, NOT That](https://www.youtube.com/watch?v=Mus_vwhTCq0)
 
- **[⬆ Table des matières](#table-of-contents)**
+<p align="center">
+:arrow_up: **[Table des matières](#table-des-matières)** :arrow_up:
+</p>
