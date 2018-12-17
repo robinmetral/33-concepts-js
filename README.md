@@ -24,26 +24,11 @@ Elle a été créée dans le but d'aider les développeurs à maîtriser les con
 
 **🚀 La version originale de cette repo est considérée par GitHub comme étant l'un des [meilleurs projets open-source de 2018 !](https://blog.github.com/2018-12-13-new-open-source-projects/)**
 
-## Community
-
-Feel free to submit a PR adding a link to your own recaps or reviews. If you want to translate the repo into your native language, please feel free to do so.
-
-All the translations for this repo will be listed below:
-
-- [Chinese](https://github.com/stephentian/33-js-concepts) — Re Tian
-- [Portuguese-BR](https://github.com/tiagoboeing/33-js-concepts) — Tiago Boeing
-- [Korean](https://github.com/yjs03057/33-js-concepts.git) — Suin Lee
-- [Spanish](https://github.com/adonismendozaperez/33-js-conceptos) — Adonis Mendoza
-- [Turkish](https://github.com/ilker0/33-js-concepts) — İlker Demir
-- [Russian](https://github.com/gumennii/33-js-concepts) — Mihail Gumennii
-- [Tiếng Việt](https://github.com/nguyentranchung/33-js-concepts) — Nguyễn Trần Chung
-- [Polish](https://github.com/lip3k/33-js-concepts) — Dawid Lipinski
-- [Persian](https://github.com/majidalavizadeh/33-js-concepts) — Majid Alavizadeh
-- [Indonesian](https://github.com/rijdz/33-js-concepts) — Rijdzuan Sampoerna
+_ℹ Les ressources mentionnées sont principalement en anglais. Si vous connaissez une ressource en français, n'hésitez pas à faire un pull request !_
 
 ---
 
-## Table of Contents
+## Table des matières
 
 1. **[Call Stack](#1-call-stack)**
 2. **[Primitive Types](#2-primitive-types)**
