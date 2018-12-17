@@ -22,7 +22,7 @@ Cette repo est une traduction de [33-js-concepts](https://github.com/leonardomso
 
 Elle a été créée dans le but d'aider les développeurs à maîtriser les concepts fondamentaux du JavaScript, et fonctionne comme un guide pour continuer à apprendre. Elle est basée sur un article écrit par [Stephen Curtis](https://twitter.com/stephenthecurt), que vous pouvez lire [ici](https://medium.com/@stephenthecurt/33-fundamentals-every-javascript-developer-should-know-13dd720a90d1) (en anglais :gb:).
 
-:rocket: **La version originale de cette repo est considérée par GitHub comme étant l'un des [meilleurs projets open-source de 2018 !](https://blog.github.com/2018-12-13-new-open-source-projects/)**
+:rocket: **La version en anglais de cette repo est considérée par GitHub comme étant l'un des [meilleurs projets open-source de 2018 !](https://blog.github.com/2018-12-13-new-open-source-projects/)**
 
 :information_source: _Les ressources mentionnées sont principalement en anglais. Si vous connaissez une ressource en français, n'hésitez pas à faire un pull request !_
 
