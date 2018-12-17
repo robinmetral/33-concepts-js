@@ -92,7 +92,7 @@ Elle a été créée dans le but d'aider les développeurs à maîtriser les con
  * :movie_camera: [The Ultimate Guide to Execution Contexts, Hoisting, Scopes, and Closures in JavaScript — Tyler McGinnis](https://www.youtube.com/watch?v=Nt-qa_LlUH0)
 
 <p align="center">
-:arrow_up: **[Table des matières](#table-des-matières)** :arrow_up:
+:arrow_up: <strong><a href="#table-des-matières">Table des matières</a></strong> :arrow_up:
 </p>
 
 ---
@@ -119,7 +119,7 @@ Elle a été créée dans le but d'aider les développeurs à maîtriser les con
  * :movie_camera: [What are variables in Javascript? — JS For Everyone](https://www.youtube.com/watch?v=B4Bbmei_thw)
 
 <p align="center">
-:arrow_up: **[Table des matières](#table-des-matières)** :arrow_up:
+:arrow_up: <strong><a href="#table-des-matières">Table des matières</a></strong> :arrow_up:
 </p>
 
 ---
@@ -144,7 +144,7 @@ Elle a été créée dans le but d'aider les développeurs à maîtriser les con
  * :movie_camera: [JavaScript Value vs Reference Types — Programming with Mosh](https://www.youtube.com/watch?v=fD0t_DKREbE)
 
 <p align="center">
-:arrow_up: **[Table des matières](#table-des-matières)** :arrow_up:
+:arrow_up: <strong><a href="#table-des-matières">Table des matières</a></strong> :arrow_up:
 </p>
 
 ---
@@ -168,7 +168,7 @@ Elle a été créée dans le but d'aider les développeurs à maîtriser les con
  * :movie_camera: [JavaScript Questions: What is Coercion? - Steven Hancock](https://www.youtube.com/watch?v=z4-8wMSPJyI)
 
 <p align="center">
-:arrow_up: **[Table des matières](#table-des-matières)** :arrow_up:
+:arrow_up: <strong><a href="#table-des-matières">Table des matières</a></strong> :arrow_up:
 </p>
 
 ---
@@ -194,7 +194,7 @@ Elle a été créée dans le but d'aider les développeurs à maîtriser les con
  * :movie_camera: [Javascript typeof operator — DevDelight](https://www.youtube.com/watch?v=qPYhTPt_SbQ)
 
 <p align="center">
-:arrow_up: **[Table des matières](#table-des-matières)** :arrow_up:
+:arrow_up: <strong><a href="#table-des-matières">Table des matières</a></strong> :arrow_up:
 </p>
 
 ---
@@ -223,7 +223,7 @@ Elle a été créée dans le but d'aider les développeurs à maîtriser les con
  * :movie_camera: [What the Heck is Lexical Scope? — NWCalvank](https://www.youtube.com/watch?v=GhNA0r10MmA)
 
 <p align="center">
-:arrow_up: **[Table des matières](#table-des-matières)** :arrow_up:
+:arrow_up: <strong><a href="#table-des-matières">Table des matières</a></strong> :arrow_up:
 </p>
 
 ---
@@ -245,7 +245,7 @@ Elle a été créée dans le but d'aider les développeurs à maîtriser les con
  * :movie_camera: [Function Statements and Function Expressions — Codeacademy](https://www.youtube.com/watch?v=oB5rH_9bqAI)
 
 <p align="center">
-:arrow_up: **[Table des matières](#table-des-matières)** :arrow_up:
+:arrow_up: <strong><a href="#table-des-matières">Table des matières</a></strong> :arrow_up:
 </p>
 
 ---
@@ -275,7 +275,7 @@ Elle a été créée dans le but d'aider les développeurs à maîtriser les con
  * :movie_camera: [ES6 Modules — TempleCoding](https://www.youtube.com/watch?v=5P04OK6KlXA)
 
 <p align="center">
-:arrow_up: **[Table des matières](#table-des-matières)** :arrow_up:
+:arrow_up: <strong><a href="#table-des-matières">Table des matières</a></strong> :arrow_up:
 </p>
 
 ---
@@ -303,7 +303,7 @@ Elle a été créée dans le but d'aider les développeurs à maîtriser les con
  * :movie_camera: [Desmitificando el Event Loop (Spanish)](https://www.youtube.com/watch?v=Eqq2Rb7LzYE)
 
 <p align="center">
-:arrow_up: **[Table des matières](#table-des-matières)** :arrow_up:
+:arrow_up: <strong><a href="#table-des-matières">Table des matières</a></strong> :arrow_up:
 </p>
 
 ---
@@ -328,7 +328,7 @@ Elle a été créée dans le but d'aider les développeurs à maîtriser les con
  * :movie_camera: [JavaScript setTimeOut and setInterval Explained — Theodore Anderson](https://www.youtube.com/watch?v=mVKfrWCOB60)
 
 <p align="center">
-:arrow_up: **[Table des matières](#table-des-matières)** :arrow_up:
+:arrow_up: <strong><a href="#table-des-matières">Table des matières</a></strong> :arrow_up:
 </p>
 
 ---
@@ -350,7 +350,7 @@ Elle a été créée dans le but d'aider les développeurs à maîtriser les con
  * :movie_camera: [JavaScript Engines: The Good Parts™ — Mathias Bynens & Benedikt Meurer](https://www.youtube.com/watch?v=5nmpokoRaZI)
 
 <p align="center">
-:arrow_up: **[Table des matières](#table-des-matières)** :arrow_up:
+:arrow_up: <strong><a href="#table-des-matières">Table des matières</a></strong> :arrow_up:
 </p>
 
 ---
@@ -370,7 +370,7 @@ Elle a été créée dans le but d'aider les développeurs à maîtriser les con
  * :movie_camera: [JavaScript Bitwise Operators — Programming with Mosh](https://www.youtube.com/watch?v=mesu75PTDC8)
 
 <p align="center">
-:arrow_up: **[Table des matières](#table-des-matières)** :arrow_up:
+:arrow_up: <strong><a href="#table-des-matières">Table des matières</a></strong> :arrow_up:
 </p>
 
 ---
@@ -395,7 +395,7 @@ Elle a été créée dans le but d'aider les développeurs à maîtriser les con
  * :movie_camera: [JavaScript DOM Crash Course — Traversy Media](https://www.youtube.com/watch?v=0ik6X4DJKCc)
 
 <p align="center">
-:arrow_up: **[Table des matières](#table-des-matières)** :arrow_up:
+:arrow_up: <strong><a href="#table-des-matières">Table des matières</a></strong> :arrow_up:
 </p>
 
 ---
@@ -421,7 +421,7 @@ Elle a été créée dans le but d'aider les développeurs à maîtriser les con
  * :movie_camera: [Javascript Tutorial Function Factories — Crypto Chan](https://www.youtube.com/watch?v=R7-IwpH80UE)
 
 <p align="center">
-:arrow_up: **[Table des matières](#table-des-matières)** :arrow_up:
+:arrow_up: <strong><a href="#table-des-matières">Table des matières</a></strong> :arrow_up:
 </p>
 
 ---
@@ -458,7 +458,7 @@ Elle a été créée dans le but d'aider les développeurs à maîtriser les con
  * :movie_camera: [JS Function Methods call(), apply(), and bind() — Steve Griffith](https://www.youtube.com/watch?v=uBdH0iB1VDM)
  
 <p align="center">
-:arrow_up: **[Table des matières](#table-des-matières)** :arrow_up:
+:arrow_up: <strong><a href="#table-des-matières">Table des matières</a></strong> :arrow_up:
 </p>
 
 ---
@@ -478,7 +478,7 @@ Elle a été créée dans le but d'aider les développeurs à maîtriser les con
  * :scroll: [Function and Object, instances of each other — Kiro Risk](https://javascriptrefined.io/function-and-object-instances-of-each-other-1e1095d5faac)
 
 <p align="center">
-:arrow_up: **[Table des matières](#table-des-matières)** :arrow_up:
+:arrow_up: <strong><a href="#table-des-matières">Table des matières</a></strong> :arrow_up:
 </p>
 
 ---
@@ -522,7 +522,7 @@ Elle a été créée dans le but d'aider les développeurs à maîtriser les con
  * :movie_camera: [Prototypes in Javascript - p5.js Tutorial — The Coding Train](https://www.youtube.com/watch?v=hS_WqkyUah8)
 
 <p align="center">
-:arrow_up: **[Table des matières](#table-des-matières)** :arrow_up:
+:arrow_up: <strong><a href="#table-des-matières">Table des matières</a></strong> :arrow_up:
 </p>
 
 ---
@@ -550,7 +550,7 @@ Elle a été créée dans le but d'aider les développeurs à maîtriser les con
  * :movie_camera: [Object.assign() Method — techsith](https://www.youtube.com/watch?v=9Ky4X6inpi4)
 
 <p align="center">
-:arrow_up: **[Table des matières](#table-des-matières)** :arrow_up:
+:arrow_up: <strong><a href="#table-des-matières">Table des matières</a></strong> :arrow_up:
 </p>
 
 ---
@@ -591,7 +591,7 @@ Elle a été créée dans le but d'aider les développeurs à maîtriser les con
  * :movie_camera: [Learning Functional Programming with JavaScript — Anjana Vakil - JSUnconf](https://www.youtube.com/watch?v=e-5obm1G_FY&t=1521s)
 
 <p align="center">
-:arrow_up: **[Table des matières](#table-des-matières)** :arrow_up:
+:arrow_up: <strong><a href="#table-des-matières">Table des matières</a></strong> :arrow_up:
 </p>
 
 ---
@@ -625,7 +625,7 @@ Elle a été créée dans le but d'aider les développeurs à maîtriser les con
  * :movie_camera: [JavaScript Pure vs Impure Functions Explained — Theodore Anderson](https://www.youtube.com/watch?v=AHbRVJzpB54)
 
 <p align="center">
-:arrow_up: **[Table des matières](#table-des-matières)** :arrow_up:
+:arrow_up: <strong><a href="#table-des-matières">Table des matières</a></strong> :arrow_up:
 </p>
 
 ---
@@ -660,7 +660,7 @@ Elle a été créée dans le but d'aider les développeurs à maîtriser les con
  * :movie_camera: [JavaScript Closures — CodeWorkr](https://www.youtube.com/watch?v=-rLrGAXK8WE)
 
 <p align="center">
-:arrow_up: **[Table des matières](#table-des-matières)** :arrow_up:
+:arrow_up: <strong><a href="#table-des-matières">Table des matières</a></strong> :arrow_up:
 </p>
 
 ---
@@ -689,7 +689,7 @@ Elle a été créée dans le but d'aider les développeurs à maîtriser les con
  * :movie_camera: [Higher Order Functions in JavaScript — The Coding Train](https://www.youtube.com/watch?v=H4awPsyugS0)
 
 <p align="center">
-:arrow_up: **[Table des matières](#table-des-matières)** :arrow_up:
+:arrow_up: <strong><a href="#table-des-matières">Table des matières</a></strong> :arrow_up:
 </p>
 
 ---
@@ -718,7 +718,7 @@ Elle a été créée dans le but d'aider les développeurs à maîtriser les con
  * :movie_camera: [Javascript Tutorial 34: Introduction To Recursion — codedamn](https://www.youtube.com/watch?v=9NO5dXSlbv8)
 
 <p align="center">
-:arrow_up: **[Table des matières](#table-des-matières)** :arrow_up:
+:arrow_up: <strong><a href="#table-des-matières">Table des matières</a></strong> :arrow_up:
 </p>
 
 ---
@@ -753,7 +753,7 @@ Elle a été créée dans le but d'aider les développeurs à maîtriser les con
  * :movie_camera: [Javascript Generators - THEY CHANGE EVERYTHING - ES6 Generators Harmony Generators — LearnCode.academy](https://www.youtube.com/watch?v=QO07THdLWQo)
 
 <p align="center">
-:arrow_up: **[Table des matières](#table-des-matières)** :arrow_up:
+:arrow_up: <strong><a href="#table-des-matières">Table des matières</a></strong> :arrow_up:
 </p>
 
 ---
@@ -787,7 +787,7 @@ Elle a été créée dans le but d'aider les développeurs à maîtriser les con
  * :movie_camera: [Promises Part 1 - Topics of JavaScript/ES6 — The Coding Train](https://www.youtube.com/watch?v=QO4NXhWo_NM)
  
 <p align="center">
-:arrow_up: **[Table des matières](#table-des-matières)** :arrow_up:
+:arrow_up: <strong><a href="#table-des-matières">Table des matières</a></strong> :arrow_up:
 </p>
 
 ---
@@ -821,7 +821,7 @@ Elle a été créée dans le but d'aider les développeurs à maîtriser les con
  * :movie_camera: [async/await Part 2 - Topics of JavaScript/ES8 — The Coding Train](https://www.youtube.com/watch?v=chavThlNz3s&index=4&list=PLRqwX-V7Uu6bKLPQvPRNNE65kBL62mVfx)
 
 <p align="center">
-:arrow_up: **[Table des matières](#table-des-matières)** :arrow_up:
+:arrow_up: <strong><a href="#table-des-matières">Table des matières</a></strong> :arrow_up:
 </p>
 
 ---
@@ -848,7 +848,7 @@ Elle a été créée dans le but d'aider les développeurs à maîtriser les con
  * :movie_camera: [Learning JavaScript Data Structures and Algorithms: Sorting — Packt Video](https://www.youtube.com/watch?v=Ymh_AurrMbA)
 
 <p align="center">
-:arrow_up: **[Table des matières](#table-des-matières)** :arrow_up:
+:arrow_up: <strong><a href="#table-des-matières">Table des matières</a></strong> :arrow_up:
 </p>
 
 ---
@@ -871,7 +871,7 @@ Elle a été créée dans le but d'aider les développeurs à maîtriser les con
  * :movie_camera: [Big O Notation - Time Complexity Analysis — WebTunings](https://www.youtube.com/watch?v=ALl86xJiTD8)
 
 <p align="center">
-:arrow_up: **[Table des matières](#table-des-matières)** :arrow_up:
+:arrow_up: <strong><a href="#table-des-matières">Table des matières</a></strong> :arrow_up:
 </p>
 
 ---
@@ -890,7 +890,7 @@ Elle a été créée dans le but d'aider les développeurs à maîtriser les con
  * :scroll: [Collection of computer science algorithms and data structures written in JavaScript](https://github.com/idosela/algorithms-in-javascript)
 
 <p align="center">
-:arrow_up: **[Table des matières](#table-des-matières)** :arrow_up:
+:arrow_up: <strong><a href="#table-des-matières">Table des matières</a></strong> :arrow_up:
 </p>
 
 ---
@@ -915,7 +915,7 @@ Elle a été créée dans le but d'aider les développeurs à maîtriser les con
  * :movie_camera: [Polymorphism in JavaScript — kudvenkat](https://www.youtube.com/watch?v=zdovG9cuEBA)
 
 <p align="center">
-:arrow_up: **[Table des matières](#table-des-matières)** :arrow_up:
+:arrow_up: <strong><a href="#table-des-matières">Table des matières</a></strong> :arrow_up:
 </p>
 
 ---
@@ -938,7 +938,7 @@ Elle a été créée dans le but d'aider les développeurs à maîtriser les con
  * :movie_camera: [JavaScript Patterns for 2017 — Scott Allen](https://www.youtube.com/watch?v=hO7mzO83N1Q)
 
 <p align="center">
-:arrow_up: **[Table des matières](#table-des-matières)** :arrow_up:
+:arrow_up: <strong><a href="#table-des-matières">Table des matières</a></strong> :arrow_up:
 </p>
 
 ---
@@ -984,7 +984,7 @@ Elle a été créée dans le but d'aider les développeurs à maîtriser les con
  * :movie_camera: [JavaScript Partial Application — Theodore Anderson](https://www.youtube.com/watch?v=jkebgHEcvac)
 
 <p align="center">
-:arrow_up: **[Table des matières](#table-des-matières)** :arrow_up:
+:arrow_up: <strong><a href="#table-des-matières">Table des matières</a></strong> :arrow_up:
 </p>
 
 ---
@@ -1004,5 +1004,5 @@ Elle a été créée dans le but d'aider les développeurs à maîtriser les con
 *  :movie_camera: [JavaScript Pro Tips - Code This, NOT That](https://www.youtube.com/watch?v=Mus_vwhTCq0)
 
 <p align="center">
-:arrow_up: **[Table des matières](#table-des-matières)** :arrow_up:
+:arrow_up: <strong><a href="#table-des-matières">Table des matières</a></strong> :arrow_up:
 </p>
