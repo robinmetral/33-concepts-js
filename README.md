@@ -24,7 +24,7 @@ Elle a été créée dans le but d'aider les développeurs à maîtriser les con
 
 :rocket: **La version en anglais de cette repo est considérée par GitHub comme étant l'un des [meilleurs projets open-source de 2018 !](https://blog.github.com/2018-12-13-new-open-source-projects/)**
 
-:information_source: _Les ressources mentionnées sont principalement en anglais. Si vous connaissez une ressource en français, n'hésitez pas à faire un pull request !_
+:information_source: _Les ressources ci-dessous sont principalement en anglais. Proposez un article ou une vidéo en français [ici](https://github.com/robinmetral/33-concepts-js/issues/1) ou faites directement une pull request !_
 
 ---
 
