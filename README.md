@@ -18,11 +18,11 @@
 
 ## Introduction
 
-Cette repo est une traduction de [33-js-concepts](https://github.com/leonardomso/33-js-concepts) par [Leonardo Madonaldo](https://twitter.com/leonardomso).
+Ce dépôt est une traduction de [33-js-concepts](https://github.com/leonardomso/33-js-concepts) par [Leonardo Madonaldo](https://twitter.com/leonardomso).
 
-Elle a été créée dans le but d'aider les développeurs à maîtriser les concepts fondamentaux du JavaScript, et fonctionne comme un guide pour continuer à apprendre. Elle est basée sur un article écrit par [Stephen Curtis](https://twitter.com/stephenthecurt), que vous pouvez lire [ici](https://medium.com/@stephenthecurt/33-fundamentals-every-javascript-developer-should-know-13dd720a90d1) (en anglais :gb:).
+Il a été créé dans le but d'aider les développeurs à maîtriser les concepts fondamentaux du JavaScript, et fonctionne comme un guide pour continuer à apprendre. Il est basé sur un article écrit par [Stephen Curtis](https://twitter.com/stephenthecurt), que vous pouvez lire [ici](https://medium.com/@stephenthecurt/33-fundamentals-every-javascript-developer-should-know-13dd720a90d1) (en anglais :gb:).
 
-:rocket: **La version en anglais de cette repo est considérée par GitHub comme étant l'un des [meilleurs projets open-source de 2018 !](https://blog.github.com/2018-12-13-new-open-source-projects/)**
+:rocket: **La version anglaise de ce dépôt est considérée par GitHub comme étant l'un des [meilleurs projets open-source de 2018 !](https://blog.github.com/2018-12-13-new-open-source-projects/)**
 
 :information_source: _Les ressources ci-dessous sont principalement en anglais. Proposez un article ou une vidéo en français [ici](https://github.com/robinmetral/33-concepts-js/issues/1) ou faites directement une pull request !_
 
