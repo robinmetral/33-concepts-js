@@ -71,14 +71,14 @@ Il a été créé dans le but d'aider les développeurs à maîtriser les concep
 
 ### Articles
 
- * :scroll: [Understanding Javascript Call Stack, Event Loops — Gaurav Pandvia](https://medium.com/@gaurav.pandvia/understanding-javascript-function-executions-tasks-event-loop-call-stack-more-part-1-5683dea1f5ec)
- * :scroll: [Understanding the JavaScript Call Stack — Charles Freeborn](https://medium.freecodecamp.org/understanding-the-javascript-call-stack-861e41ae61d4)
- * :scroll: [Javascript: What Is The Execution Context? What Is The Call Stack? — Valentino Gagliardi](https://www.valentinog.com/blog/js-execution-context-call-stack/)
- * :scroll: [What is the JS Event Loop and Call Stack? — Jess Telford](https://gist.github.com/jesstelford/9a35d20a2aa044df8bf241e00d7bc2d0)
- * :scroll: [Call Stack — MDN](https://developer.mozilla.org/en-US/docs/Glossary/Call_stack)
- * :scroll: [Understanding Execution Context and Execution Stack in Javascript — Sukhjinder Arora](https://blog.bitsrc.io/understanding-execution-context-and-execution-stack-in-javascript-1c9ea8642dd0)
- * :scroll: [How JavaScript Works: An Overview of the Engine, the Runtime, and the Call Stack — Alexander Zlatkov](https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073cf)
- * :scroll: [The Ultimate Guide to Execution Contexts, Hoisting, Scopes, and Closures in JavaScript — Tyler McGinnis](https://tylermcginnis.com/ultimate-guide-to-execution-contexts-hoisting-scopes-and-closures-in-javascript/)
+ * :scroll: [Récursion et pile](https://fr.javascript.info/recursion)
+ * :scroll: [Comprendre Rapidement Javascript Pile ](https://fr.n4zc.com/article/fatemw36.html)
+ * :scroll: [Comprendre la pile d'appels JavaScript — Johnson Ogwuru](https://fr.quish.tv/understanding-javascript-call-stack)
+ * :scroll: [Qu’est-ce que la pile d’appels en JavaScript ? — Jack Sparrow](https://fr.acervolima.com/qu-est-ce-que-la-pile-d-appels-en-javascript/#:~:text=La%20pile%20d'appels%20est,In%20First%20Out%20(LIFO).)
+ * :scroll: [Closures (Fermetures) — MDN](https://developer.mozilla.org/fr/docs/Web/JavaScript/Closures)
+ * :scroll: [Les fermetures en JavaScript — Bruno Lesieur](https://bruno-lesieur.developpez.com/tutoriels/javascript/es3-details/les-fermetures/)
+ * :scroll: [Qu’est-ce qu’une boucle d’événement en JavaScript ? — Jack Sparrow](https://fr.acervolima.com/qu-est-ce-qu-une-boucle-d-evenement-en-javascript/)
+ * :scroll: [Gestion de la concurrence et boucle des événements — MDN](https://developer.mozilla.org/fr/docs/Web/JavaScript/EventLoop)
 
 ### Vidéos
 
